@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
-        <id>Filedrops.OS</id>
+        <id>Filedrops.FileSystem.OS</id>
         <version>1.0.0</version>
-        <title>Filedrops OS</title>
+        <title>Filedrops FileSystem OS</title>
         <authors>xplore+</authors>
         <owners>xplore+</owners>
         <projectUrl>https://github.com/filedrops/OS</projectUrl>
@@ -21,6 +21,6 @@
         </frameworkAssemblies>
     </metadata>
     <files>
-        <file src="Filedrops.OS.dll" target="Filedrops.OS.dll" />
+        <file src="bin\Debug\Filedrops.FileSystem.OS.dll" target="Filedrops.FileSystem.OS.dll" />
     </files>
 </package>
