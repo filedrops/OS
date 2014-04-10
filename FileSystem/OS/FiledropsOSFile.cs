@@ -2,7 +2,7 @@
 using System;
 using System.IO;
 using System.Windows.Media.Imaging;
-using SystemIconRetriever;
+using Org.Filedrops.Utilities;
 
 namespace Org.Filedrops.FileSystem.OS
 {

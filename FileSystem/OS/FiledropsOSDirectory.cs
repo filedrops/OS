@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading;
 using System.Windows.Media.Imaging;
-using SystemIconRetriever;
+using Org.Filedrops.Utilities;
 
 namespace Org.Filedrops.FileSystem.OS
 {

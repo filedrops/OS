@@ -42,9 +42,6 @@
     <Reference Include="System.Windows" />
     <Reference Include="System.Xaml" />
     <Reference Include="System.Xml" />
-    <Reference Include="SystemIconRetriever">
-      <HintPath>..\..\libraries\SystemIconRetriever.dll</HintPath>
-    </Reference>
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
@@ -56,6 +53,7 @@
     <Compile Include="FileSystem\OS\Interop.cs" />
     <Compile Include="FileSystem\OS\ShellManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\FileImageGetter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
